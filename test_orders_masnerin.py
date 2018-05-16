@@ -1,4 +1,5 @@
-# Форма заказа на http://www.masnerin.com
+# Тестирование формы заказа.
+# Студия Маснерин (http://www.masnerin.com)
 
 import unittest
 from selenium import webdriver
