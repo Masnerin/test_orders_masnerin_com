@@ -1,4 +1,4 @@
-# Форма заказа на www.masnerin.com
+# Форма заказа на http://www.masnerin.com
 
 import unittest
 from selenium import webdriver
