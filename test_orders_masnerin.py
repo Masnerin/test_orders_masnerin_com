@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import Select
 
 class MasnerinOrder(unittest.TestCase):
     def setUp(self):
-        self.driver = webdriver.Chrome('C:\\Masnerin\\WebDriver\\Chrome\\chromedriver.exe')
+        self.driver = webdriver.Chrome()
 
     def test_orders_in_masnerin_com(self):
         driver = self.driver
